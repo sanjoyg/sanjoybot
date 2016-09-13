@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "botbuilder": "^1.0.1",
-    "restify": "^4.1.0"
+    "botbuilder": "^3.2.3",
+    "restify": "^4.1.1"
   }
 }
