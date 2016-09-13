@@ -3,7 +3,7 @@ var builder = require('botbuilder');
 
 
 console.log('Starting...');
-
+console.log(builder)
 //=========================================================
 // Bot Setup
 //=========================================================
